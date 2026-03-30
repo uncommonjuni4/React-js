@@ -1,0 +1,152 @@
+                                                                                            786
+ 
+                                               Start React Js Series
+
+
+Introduction To React Js:
+
+                                                  In this i introduce that what is react js.
+
+Important Links of React Js:
+                                                        Old Website : https://legacy.reactjs.org/
+
+                                                        New Website Link :https://react.dev/
+
+                                                   
+Q:What Should  you know before start react jS?
+
+Ans:  React  js start karnae se phale hum ko ya jazye ani jaye:
+
+                                               1: Html (most important)
+                                               2: css (most important)
+                                               3: JavaScript (most  most Important)
+                                               4 : Understanding of Es6 (most most Important)
+ Q : what is difference between library and framework?
+                          
+ Ans :   The different between Library and framework is :
+                                          Library: 
+                                                "hum ko library me ya fida hota h ka hum apni marze se kuch be ase me use kar sakta hn mean is me hum third party jazia be use kar sakta hn    .library me hum ko customztion Zada milti h".
+                                          
+                                          
+                                          Framework:
+                                                   "hum ko framework ka be fida h but antna ni ku ka hum ko is me ak limit me rah g kam karna hota h.Jab ka library me hum apni marze se jiza bana sakta hn  .Is lye library Zada use hotye hn framework ke  jaga" .   
+
+
+
+Q : Why React is most popular  instead of other framework and Library ?
+
+Ans :      React is lye Zada use hotye hn ku ka ya ak framework h.Or ya sab se zda use honae vala h. Is me hum apni marze se jazia custom kar skata h .is lye React js Zada use hotye h than Angular or Vue js. Is ka bad react js ko understand karna easy.Is ka bad react js dynamic Website baniye ka lye use hotye h.ya single page Website bane ka lye use hotye h.                    
+                                                                                
+Q:What is react JS?
+
+Ans:   React js javascript ke  ak library h or ya sab se Zada use honae valye libaray h .
+      Made:
+                              
+                       "React js 2012 me bani tye but ya 2013 me free of cost mean is ko ager ak ka use ka lye open kar deya ta"
+
+     Orgenization:
+
+                                          "Ya 2012 me Facebook valo nae bani tye ku on ko ak masla ta. Ager aj se kuch sal phale hum nae facebook use ke ho gye to hum nae ya taka ta jab kase ke tarf se message ata hum message seen be karta leta t but vo jo icon of numbers smae he rahta ta jo ka logo ko pasand ni ta is lye facebook valo  bane react js ko baniya.Bad me ya boaht he famous ho gye"
+
+
+ Q:What is benifits of react js?
+
+
+  Ans: There are many advantages of React js :
+      1 : React js compents base structure  fellow karta h
+      2 : React js ka compents ko hum multi time use kar sakta hn "For example ager hmare pass kafi pages hn os me hum ko pta h navbar bar bar use hona h to is ka ager hum compent ban lan to os ko multi time use kar saktda hn"
+      3 : React me hum  js ko ander html ke tarh js lak skta hn (Jsx)
+      4: React use unidirectional data flow mean data flow from father to child
+ 
+
+
+
+
+
+History Of React JS Version :
+
+
+
+                         Version :React 0.3
+                         Date of Publish : May 2013
+                         key Feature : In this version The consept of vrtual dom and compents
+
+
+                         version :React 0.4 
+                         Date of Publish : october 2013
+                         key feature : In this version the method of render introduce
+
+
+                          Version : React 0.5
+                          Date of publish : November 2013
+                          key Featue :only foucs on fixing error and debug them
+
+
+                          Version : React 0.6
+                          Date of Publish : Feburary
+                          Key Feature : only foucs on Flux method
+
+
+
+
+                          Version : React 0.7
+                          Date of Publish : march 2014
+                          Key feature : The React Element introduce in this version
+
+                          Version : React 0.8 
+                          Date of Publish : may 2014
+                          Key Feature : again foucs on render method 
+
+
+                          Version : React 0.9
+                          Date of Publish : june 2014	
+                          key Feature : in this verson the react devolper tool introduce for find error or solve them
+
+                          VerSion : React 0.10
+                          Date of publish :July 2014
+                          key feature : Again focus on error find and slove them
+   
+
+                          Version : React 0.11
+                          Date of Publish : September 2014
+                          key feature :again focus    React comments
+
+
+
+                       Version : React 0.12
+                       Date of Publish : October 2014
+                       key feature :    the react native introduce in this version
+
+
+                       Version : React  0.13
+                       Date of Publish : march 2015
+                       Key Feature :in this version the react classes introduce with ES6
+
+                       Version : React 0.14
+                       Date of Publish : October 2015
+                       Key Feature : the npm install in this version and the official group of npm
+
+
+                         
+                       Version : React 15
+                       Date of Publish:  April 2016
+                       Key Feature : in this version the react dive into react and react dom.also work on debugging and fixing error
+
+                       Version : React 16
+                       Date of Publish : September 2017
+                       key Feature : many key feature like  fiber conciliations engine and error handler also many important     feature
+
+
+                       Version : React 17
+                       Date of Publish : October 2020
+                       Key Feature: it only work  React eco system 
+                         
+                       Version : React 18
+                       Date of Publish :  October 2020
+                       key Feature : again focus on rendering , classes and react eco system
+                       
+
+
+ 
+
+

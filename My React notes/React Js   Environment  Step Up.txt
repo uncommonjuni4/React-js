@@ -1,0 +1,41 @@
+                        React Js   Environment  Step Up
+
+
+                             we can set React js Environment
+
+
+React js ka  step-up ka lye Important Jiza:
+
+        1: first of all we need an Pc
+        2: Install node js which is an java script  run timer
+        3: then install vs code some important extensions for shortcut
+        4: Os ka bad hum ko react js ka phale project baniye gan
+ 
+*React js ka First project :
+
+          1: sab se phale hum  ak folder Bania hoga or par os ko vs code me terminal open karna hoga (for open Terminal (We press "Ctrl+`"))
+
+         2: os ka bad hum ko folder  me jana hoga with ("cd + folder name ")
+
+
+         3: os ka bad hum ko pale project bania ka lye terminal me ya run karna
+hoga ("npx  create-react-app first project")
+
+
+         4: Then hum ko option aye ga kis se project baina h par hum ko ("react js") select karna hoga
+
+
+         5:  par hum ko option aya ka kis  me project bana h hum ko ("java script") select karna h
+
+
+
+           6: os ka bad option aya ap ko jo be aya bas yes yes select karna h
+ 
+
+         7: os ka bad harma react ka phale project ban jaye ga or vo kud he automatically open ho jaye ga
+ 
+         8: os ka bad hum ko run kar ka lye sab se pahle folder me jana hoga ("cd folder name")  os ka bad hum ko run ka lye terminal me  ("npm Start") likna hoga or hamra project ready ho jaye ga
+
+
+                                                      " Is ka bad hamra react ka step hoga h done  "
+ 

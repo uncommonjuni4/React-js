@@ -1,0 +1,163 @@
+                                          React JS Compents
+
+Hum nae last lecture me be parha h ka compents se mean h ka hum her ak jaz ko ak part me divide kar ka use kar skta hn.For example hum ko pta  ka her website ka multipgaes par ak he navbar or ager her ak page ka lye navbar bniya jaye to boaht zda time lak jaye ga is lye hum asa karta hn ka navbar phale ban leta hn ak compemts ke trah or os ka bad hum os ko kahye be use kar sakta hn .Is se ya fida hota h ka hamra time bac jata h   
+
+Type of React js compents:
+                                            
+                                    1: Class Compents
+                                    
+                                    2: Functional Compents
+       
+                                    3: control compents
+ 
+                                    4: Uncontrol compents
+
+                                    5: Prue compents
+            
+                                    6: High-order-compents
+
+
+Function Compents In React Js:  
+
+
+                               "Ab hum React js me functional compents ka barye me parh ta hn"        
+
+
+
+
+Defination:
+           "React js me functional compents se mean asa function hn jin me value parameters ka tor par ni hotye mean ka paramters pass ni hota or ya simple JavaScript   function ke trah hota hn.In me return value jsx ke from hotye or render ho kar dom tree ko jatye h"
+
+Method To Create :   
+
+                                    We can create React functional compents using this :
+                
+                                                                                          'sab se phale hum ko scr file me ander new file bani with any name or file ka name ka fisrt letter capital hona jaye .os a bad jo file ka name hoga function ka be vo he name hoga'
+
+
+Example of Functional compents:
+
+                    code:
+
+                                                               "
+                                                       import React from "react"
+                                                        
+                                                       function  My-project(){
+                                                       retrun(
+                                                                  <div>
+                                                                  <h1>My name is juni</h1>
+                                                                   </div>   )
+                                                          }
+                                                        export default My-project;
+
+
+
+                                                    Output:
+                                                                [My name is juni] 
+
+
+    Another method to write code :
+     
+                                                                               
+                                                     "
+                                                       import React from "react"
+ 
+                                                      export default  function  My-project(){
+                                                       retrun(
+                                                                  <div>
+                                                                  <h1>My name is juni</h1>
+                                                                   </div>   )
+                                                          }       
+
+
+    Another method to write code(if want to use as we use an function multi time ) :
+
+
+
+  Jis file use karna h oder asa hoga :
+                                                                                        "import My-project ,{my-project},{my-project},{my-project},{my-project}" 
+ 
+ 
+                                                     "
+                                                       import React from "react"
+ 
+                                                      export default  function  My-project(){
+                                                       retrun(
+                                                                  <div>
+                                                                  <h1>My name is juni</h1>
+                                                                   </div>   )
+                                                          }
+        
+                                                    Output:
+                                                             [My name is juni]                          
+                                                             [My name is juni]
+                                                             [My name is juni]
+                                                             [My name is juni]
+
+Another method to write code If we want  to use function in the same file :
+ 
+ 
+                                                     "
+                                                      use :
+                                                                                                     import React from "react" 
+                                                                                                    function App (){
+ 
+                                                                                                     retrun(
+                                                                                                            <>
+
+                                                                                                             <My-project/>    ///ase use hoga
+ 
+                                                                                                            </>
+ 
+                                                                                                             )
+                                                                                                                    }
+
+  
+                                                                       export default  function  My-project(){
+                                                                                                           retrun(
+                                                                                                                <div>
+                                                                                                                       <h1>My name is juni</h1>
+                                                                                                                 </div>   
+                                                                                                                  )
+                                                                                                              }              "
+
+
+
+                                                                                     output: 
+                                                                                               "My name is juni"
+
+
+                                                                         
+
+                                                      
+
+
+             
+
+  The file in which use it:
+                                                                        ager hum ko  ase kase or be file me use karna h to sab se phale is ko import karna hoga os file me .For expamle hamra pass ak file h os me hum nae ase use karna h to hum is ko  ase karyte gan.
+ 
+                                   use :
+                                                                                                     import React from "react"
+
+        
+                                                       import filename from 'file';
+                                                                                                    
+                                                                                                    function App (){
+                 
+                                                                                                     retrun(
+                                                                                                            <>
+
+                                                                                                             <My-project/>    ///ase use hoga
+                                                        
+                                                                                                            </>
+          
+                                                                                                             )
+                                                                                                                    }
+
+                                                        <My-project/>  or  <My-project><My-project/>                                               
+
+                                                                                                  "<My-project/>  or  <My-project><My-project/>
+                                                                                                   <My-project/>  or  <My-project><My-project/>
+                                                                                                  <My-project/>  or  <My-project><My-project/>
+                                         

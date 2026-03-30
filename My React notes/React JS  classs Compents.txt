@@ -1,0 +1,134 @@
+                                          React JS Compents
+
+Hum nae last lecture me be parha h ka compents se mean h ka hum her ak jaz ko ak part me divide kar ka use kar skta hn.For example hum ko pta  ka her website ka multipgaes par ak he navbar or ager her ak page ka lye navbar bniya jaye to boaht zda time lak jaye ga is lye hum asa karta hn ka navbar phale ban leta hn ak compemts ke trah or os ka bad hum os ko kahye be use kar sakta hn .Is se ya fida hota h ka hamra time bac jata h   
+
+Type of React js compents:
+                                            
+                                    1: Class Compents
+                                    
+                                    2: Functional Compents
+       
+                                    3: control compents
+ 
+                                    4: Uncontrol compents
+
+                                    5: Prue compents
+            
+                                    6: High-order-compents
+
+
+class Compents In React Js:  
+
+
+                               "Ab hum React js me class   compents ka barye me parh ta hn" 
+
+
+
+Os ka bad class compents react js version18.6  me use use karna   bohat easy
+
+
+Hook ka react js me entry kad bat subra message karni
+
+
+Method Class code:
+
+                       "import Ract from 'react'
+                        export deflaut class App extends React.compontents(){
+                        render(
+
+                        retrn(
+
+                               <>
+                                                                               <h1>my name is juni</h1>
+                                </>
+
+)
+)
+                        } 
+
+
+          
+
+
+
+Another Method Class code:
+
+                       "import Ract, {compontents}from 'react'
+                        export deflaut class App extends compontents(){
+                        render(
+
+                        retrn(
+
+                               <>
+                                                                               <h1>my name is juni</h1>
+                                </>
+
+)
+)
+                        }
+
+    outPut:
+                                            [my name is juni]
+
+
+
+
+
+Another Method Class code:
+
+                       "import Ract, {compontents}from 'react'
+                        export deflaut class App extends compontents(){
+                        render(
+                           function Juni(){
+                                               <h1>JUNI</h1>
+                                             }
+                        retrn(
+
+                               <>
+                                                                               <h1>my name is juni</h1>
+                                                                               {Juni()}  // asse be call kar sakta hn
+                                                                               <Juni/>
+                                </>
+
+)
+)
+                        }
+
+    outPut:
+                                            [my name is juni]
+                                            [JUNI]
+
+
+
+
+
+
+
+Another Method Class code :
+
+                       "import Ract, {compontents}from 'react'
+                        class App extends compontents(){
+                        render(
+                           function Juni(){
+                                               <h1>JUNI</h1>
+                                             }
+                        retrn(
+
+                               <>
+                                                                               <h1>my name is juni</h1>
+                                                                               {Juni()}  // asse be call kar sakta hn
+                                                                               <Juni/>
+                                </>
+
+)
+)
+                        }
+
+
+
+             export deflaut  App;
+
+    outPut:
+                                            [my name is juni]
+                                            [JUNI]
+

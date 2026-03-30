@@ -1,0 +1,94 @@
+
+React Js state with Class compents:
+
+                                                              import React ,{Compents} from 'react';
+                                                              class App entents Compents{
+                                                              render{               
+                                                                    return(
+                                                                        <h1>this.state.data</h1>    
+                                                                           )
+                                                                    }
+}
+
+                                                             export deafult App;
+  
+
+
+
+
+State With Class Compents:
+                                Jab hum react js me state ko class compents ka sath use karta hn to sab se phale construture hona jaye par  , par super use hoga or then this use hoga .   react js ke  me state ko is arh use kaya jata h.{this.state.data}                                 
+
+
+
+
+                  Construture{
+
+
+                                              super();
+                                              this.state ={
+                                                    date = "juni"
+                                                          }
+                             }
+
+
+
+
+
+how we use function in ract with Js class compents:
+
+
+
+
+
+                           import React ,{Compents} from 'react';
+                                                              class App entents Compents{
+                                                              demo(){
+
+                                                                    alert("my namre is juni")
+                                                                    }
+
+
+                                                              render{
+                                                                    return(
+                                                                        <h1>this.state.data</h1>
+                                                                        <buuton onclick=   ()=> this.demo>click me</button>                                                                          )
+                                                                    }
+}
+
+                                                             export deafult App;
+ 
+
+
+
+
+For chnage value of varibale in react js class compents:
+
+      import React ,{Compents} from 'react';
+                                                              class App entents Compents{                  
+
+                                       Construture{
+
+
+                                              super();
+                                              this.state ={
+                                                    date = "juni"
+                                                          }
+                              }
+
+
+                                                              demo(){
+                                                                     this.setsate({data:"JUNI2"})
+                                                                    alert("my namre is juni")  //
+                                                                    }
+
+
+                                                              render{
+                                                                    return(
+                                                                        <h1>this.state.data</h1>
+                                                                        <buuton onclick=   ()=> this.demo>click me</button>                                                                          )
+                                                                    }
+}
+
+                                                             export deafult App;
+ 
